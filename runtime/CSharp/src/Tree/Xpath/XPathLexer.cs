@@ -27,6 +27,8 @@ using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
 using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
 using DFA = BezierGraph.Dependencies.Antlr4.Runtime.Dfa.DFA;
 
+namespace BezierGraph.Dependencies {
+
 [System.CodeDom.Compiler.GeneratedCode("ANTLR", "4.13.1")]
 [System.CLSCompliant(false)]
 public partial class XPathLexer : Lexer {
@@ -133,3 +135,5 @@ public partial class XPathLexer : Lexer {
 
 
 }
+
+} // BezierGraph.Dependencies
