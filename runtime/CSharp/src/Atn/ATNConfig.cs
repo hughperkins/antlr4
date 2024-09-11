@@ -5,12 +5,12 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
 
 	/** A tuple: (ATN state, predicted alt, syntactic, semantic context).

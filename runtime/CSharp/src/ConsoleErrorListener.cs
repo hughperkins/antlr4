@@ -5,7 +5,7 @@
 
 using System.IO;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <author>Sam Harwell</author>
     public class ConsoleErrorListener<Symbol> : IAntlrErrorListener<Symbol>

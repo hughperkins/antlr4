@@ -5,7 +5,7 @@
 
 using System.IO;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>How to emit recognition errors.</summary>
     /// <remarks>How to emit recognition errors.</remarks>

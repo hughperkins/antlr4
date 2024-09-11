@@ -5,11 +5,11 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
 	/// <summary>A DFA state represents a set of possible ATN configurations.</summary>
 	/// <remarks>

@@ -3,9 +3,9 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 using System.Collections.Generic;
-using Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
     /// <author>Sam Harwell</author>
     public interface IEdgeMap<T> : IEnumerable<KeyValuePair<int, T>>

@@ -4,10 +4,10 @@
  */
 using System;
 using System.Collections.Generic;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>
     /// Provides an implementation of

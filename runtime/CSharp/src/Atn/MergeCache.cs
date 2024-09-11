@@ -5,7 +5,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
 	public class MergeCache
 	{

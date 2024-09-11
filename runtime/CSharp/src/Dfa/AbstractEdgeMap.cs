@@ -5,7 +5,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
     /// <author>Sam Harwell</author>
     public abstract class AbstractEdgeMap<T> : IEdgeMap<T>

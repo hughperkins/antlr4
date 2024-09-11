@@ -6,14 +6,14 @@ using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Dfa;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
-using Antlr4.Runtime.Tree;
-using Antlr4.Runtime.Tree.Pattern;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Dfa;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree.Pattern;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>This is all the parsing support code essentially; most of it is error recovery stuff.</summary>
     /// <remarks>This is all the parsing support code essentially; most of it is error recovery stuff.</remarks>

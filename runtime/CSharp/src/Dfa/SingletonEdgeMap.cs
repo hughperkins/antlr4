@@ -4,7 +4,7 @@
  */
 using System.Collections.Generic;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
     /// <author>Sam Harwell</author>
     public sealed class SingletonEdgeMap<T> : AbstractEdgeMap<T>

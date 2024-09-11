@@ -4,7 +4,7 @@
  */
 using System.Collections.Concurrent;
 
-namespace Antlr4.Runtime.Tree
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Tree
 {
     /// <summary>Associate a property with a parse tree node.</summary>
     /// <remarks>

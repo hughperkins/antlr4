@@ -5,7 +5,7 @@
 
 using System.Collections.Generic;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
 	public class ArrayList<T> : List<T>
 	{

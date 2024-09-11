@@ -3,7 +3,7 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 
-namespace Antlr4.Runtime.Sharpen
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Sharpen
 {
     using System.Collections.Generic;
     using System.Linq;

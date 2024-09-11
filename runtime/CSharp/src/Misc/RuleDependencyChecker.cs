@@ -8,10 +8,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Text;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
     /// <author>Sam Harwell</author>
     public class RuleDependencyChecker

@@ -2,9 +2,9 @@
  * Use of this file is governed by the BSD 3-clause license that
  * can be found in the LICENSE.txt file in the project root.
  */
-using Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
 #pragma warning disable 0659 // 'class' overrides Object.Equals(object o) but does not override Object.GetHashCode()
 

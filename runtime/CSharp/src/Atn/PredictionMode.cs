@@ -3,11 +3,11 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 using System.Collections.Generic;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
     /// <summary>
     /// This enumeration defines the prediction modes available in ANTLR 4 along with

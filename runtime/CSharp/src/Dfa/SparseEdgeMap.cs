@@ -5,9 +5,9 @@
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
     /// <author>Sam Harwell</author>
     public sealed class SparseEdgeMap<T> : AbstractEdgeMap<T>

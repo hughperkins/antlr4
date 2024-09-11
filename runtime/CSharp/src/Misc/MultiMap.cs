@@ -4,9 +4,9 @@
  */
 using System;
 using System.Collections.Generic;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
     [System.Serializable]
     public class MultiMap<K, V> : Dictionary<K, IList<V>>

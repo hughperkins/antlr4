@@ -6,12 +6,12 @@ using System;
 using System.IO;
 using System.Collections.Generic;
 using System.Text;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>A lexer is recognizer that draws input symbols from a character stream.</summary>
     /// <remarks>

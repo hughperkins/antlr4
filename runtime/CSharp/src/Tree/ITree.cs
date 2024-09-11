@@ -3,7 +3,7 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 
-namespace Antlr4.Runtime.Tree
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Tree
 {
     /// <summary>The basic notion of a tree has a parent, a payload, and a list of children.</summary>
     /// <remarks>

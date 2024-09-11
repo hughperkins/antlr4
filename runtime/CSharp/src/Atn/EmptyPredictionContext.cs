@@ -3,11 +3,11 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 using System;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
 	#pragma warning disable 0659 // 'class' overrides Object.Equals(object o) but does not override Object.GetHashCode()
     public sealed class EmptyPredictionContext : SingletonPredictionContext

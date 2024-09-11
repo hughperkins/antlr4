@@ -6,9 +6,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>
     /// Useful for rewriting out a buffered input token stream after doing some

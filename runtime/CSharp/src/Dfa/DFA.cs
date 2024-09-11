@@ -4,10 +4,10 @@
  */
 using System;
 using System.Collections.Generic;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
 	public class DFA
 	{

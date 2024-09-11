@@ -5,10 +5,10 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
-using Antlr4.Runtime.Atn;
-using Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Atn;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     public abstract class Recognizer<Symbol, ATNInterpreter> : IRecognizer
         where ATNInterpreter : ATNSimulator

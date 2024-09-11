@@ -2,7 +2,7 @@
  * Use of this file is governed by the BSD 3-clause license that
  * can be found in the LICENSE.txt file in the project root.
  */
-namespace Antlr4.Runtime.Sharpen
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Sharpen
 {
     using System;
     using System.Collections.Generic;

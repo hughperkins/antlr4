@@ -4,7 +4,7 @@
  */
 using System;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
     /// <summary>An immutable inclusive interval a..b.</summary>
     /// <remarks>An immutable inclusive interval a..b.</remarks>

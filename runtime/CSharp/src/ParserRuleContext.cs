@@ -4,12 +4,12 @@
  */
 using System;
 using System.Collections.Generic;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
-using Antlr4.Runtime.Tree;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>A rule invocation record for parsing.</summary>
     /// <remarks>

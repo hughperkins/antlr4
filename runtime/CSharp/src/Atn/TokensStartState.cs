@@ -3,7 +3,7 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 
-namespace Antlr4.Runtime.Atn
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Atn
 {
     /// <summary>The Tokens rule start state linking to each lexer rule start state</summary>
     public sealed class TokensStartState : DecisionState

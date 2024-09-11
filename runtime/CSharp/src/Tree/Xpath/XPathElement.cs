@@ -3,10 +3,10 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 using System.Collections.Generic;
-using Antlr4.Runtime.Sharpen;
-using Antlr4.Runtime.Tree;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree;
 
-namespace Antlr4.Runtime.Tree.Xpath
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Tree.Xpath
 {
     public abstract class XPathElement
     {

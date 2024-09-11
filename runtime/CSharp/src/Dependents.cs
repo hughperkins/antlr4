@@ -3,10 +3,10 @@
  * can be found in the LICENSE.txt file in the project root.
  */
 using System;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <author>Sam Harwell</author>
     [Flags]

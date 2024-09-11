@@ -4,7 +4,7 @@
  */
 using System;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
     /// <author>Sam Harwell</author>
     public static class Args

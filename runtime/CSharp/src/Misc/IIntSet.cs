@@ -4,7 +4,7 @@
  */
 using System.Collections.Generic;
 
-namespace Antlr4.Runtime.Misc
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Misc
 {
     /// <summary>A generic set of integers.</summary>
     /// <remarks>A generic set of integers.</remarks>

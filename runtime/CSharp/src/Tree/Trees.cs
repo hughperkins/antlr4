@@ -4,10 +4,10 @@
  */
 using System.Collections.Generic;
 using System.Text;
-using Antlr4.Runtime.Misc;
-using Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Misc;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
 
-namespace Antlr4.Runtime.Tree
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Tree
 {
     /// <summary>A set of utility routines useful for all kinds of ANTLR trees.</summary>
     /// <remarks>A set of utility routines useful for all kinds of ANTLR trees.</remarks>

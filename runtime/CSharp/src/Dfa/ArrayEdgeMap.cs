@@ -9,7 +9,7 @@ using Interlocked = System.Threading.Interlocked;
 
 using Volatile = System.Threading.Volatile;
 
-namespace Antlr4.Runtime.Dfa
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Dfa
 {
     /// <author>Sam Harwell</author>
     public sealed class ArrayEdgeMap<T> : AbstractEdgeMap<T>

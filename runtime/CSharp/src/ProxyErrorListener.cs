@@ -5,7 +5,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>
     /// This implementation of

@@ -6,7 +6,7 @@
 using Encoding = System.Text.Encoding;
 using File = System.IO.File;
 
-namespace Antlr4.Runtime
+namespace BezierGraph.Dependencies.Antlr4.Runtime
 {
     /// <summary>
     /// This is an

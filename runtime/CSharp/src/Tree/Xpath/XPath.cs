@@ -6,12 +6,12 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using Antlr4.Runtime;
-using Antlr4.Runtime.Sharpen;
-using Antlr4.Runtime.Tree;
-using Antlr4.Runtime.Tree.Xpath;
+using BezierGraph.Dependencies.Antlr4.Runtime;
+using BezierGraph.Dependencies.Antlr4.Runtime.Sharpen;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree;
+using BezierGraph.Dependencies.Antlr4.Runtime.Tree.Xpath;
 
-namespace Antlr4.Runtime.Tree.Xpath
+namespace BezierGraph.Dependencies.Antlr4.Runtime.Tree.Xpath
 {
     /// <summary>
     /// Represent a subset of XPath XML path syntax for use in identifying nodes in
